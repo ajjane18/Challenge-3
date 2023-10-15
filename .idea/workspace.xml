@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b5035d2-ab9f-44af-a916-8492d9e75f77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Build/WebGL.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/WebGL.framework.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/WebGL.loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build/WebGL.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/MemoryProfiler.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/fullscreen-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/webgl-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemplateData/webmemd-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +61,7 @@
       <updated>1697372693258</updated>
       <workItem from="1697372695786" duration="343000" />
       <workItem from="1697373045587" duration="596000" />
+      <workItem from="1697374278752" duration="617000" />
     </task>
     <servers />
   </component>
