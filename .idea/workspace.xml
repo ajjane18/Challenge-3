@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b5035d2-ab9f-44af-a916-8492d9e75f77" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Build/WebGL.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGL.framework.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGL.loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGL.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/MemoryProfiler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/fullscreen-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-empty-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/progress-bar-full-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/unity-logo-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/webgl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TemplateData/webmemd-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WneIaIMG7MS0apbaakxtiNrExZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Challenge-3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Challenge-3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5035d2-ab9f-44af-a916-8492d9e75f77" name="Changes" comment="" />
+      <created>1697372693258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697372693258</updated>
+      <workItem from="1697372695786" duration="343000" />
+      <workItem from="1697373045587" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
